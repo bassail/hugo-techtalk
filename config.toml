@@ -1,0 +1,22 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Tech' Talk LCL"
+theme = "ananke"
+[markup.goldmark.renderer]
+unsafe= true
+[params]
+  favicon = ""
+  description = "The last theme you'll ever need. Maybe."
+  facebook = ""
+  twitter = "https://twitter.com/GoHugoIO"
+  instagram = ""
+  youtube = ""
+  github = ""
+  gitlab = ""
+  linkedin = ""
+  mastodon = ""
+  slack = ""
+  stackoverflow = ""
+  background_color_class = "bg-black"
+  featured_image = "/bank.jpg"
+  recent_posts_number = 2
